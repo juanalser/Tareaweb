@@ -1,0 +1,51 @@
+.Cerrar button{
+    margin-top: 40px;
+    padding: 20px;
+	color:#fff;
+	background: #090dca;
+	border: none;
+}
+
+.Cerrar button:hover{
+    background-color: #02bab5;
+	color:#fff;
+}
+
+.Cerrar h3{
+    margin-top: 40px;
+}
+
+.Iniciar button{
+    display: inline-block;
+    vertical-align: middle;
+    line-height: normal;
+    margin-top: 50px;
+    padding: 20px;
+	color:#fff;
+	background: #1a73e8;
+    border: black;
+    width: 400px;
+    
+} 
+
+.Iniciar button:hover{
+    background-color: #1aa7e8;
+	color:#fff;
+}
+
+.Anonimo button {
+    display: inline-block;
+    vertical-align: middle;
+    line-height: normal;
+    margin-top: 50px;
+    padding: 20px;
+	color:#fff;
+	background: #737a85;
+    border: black;
+    width: 400px;
+}
+
+.Anonimo button:hover{
+    background-color: #9ab8c5;
+	color:#fff;
+}
